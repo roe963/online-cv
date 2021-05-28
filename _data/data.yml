@@ -74,6 +74,7 @@ education:
           - Bullet point
           - Bullet point
 experiences:
+    title: Experiencia Laboral
     - role: .NET Developer
       time: 2021
       company: Michelín, Almería
