@@ -7,9 +7,9 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Rubén Ortega Enciso
+    name: Rubén Ortega
     tagline: Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+#     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: rbn.ort.5195@gmail.com
@@ -26,19 +26,19 @@ sidebar:
 #     codewars:
 #     goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
+    Idiomas:
       - idiom: Inglés
         level: B1
         
       - idiom: Español
         level: Nativo
 
-    interests:
-      - item: Code
-        link:
+#     interests:
+#       - item: Code
+#         link:
 
-      - item: NBA
-        link:
+#       - item: NBA
+#         link:
 
 # career-profile:
 #     title: Career Profile
@@ -147,17 +147,26 @@ experiences:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Lenguajes
 
     toolset:
       - name: Java
-        level: 90%
+        level: 80%
 
       - name: C#
-        level: 90%
+        level: 80%
 
       - name: Ada
-        level: 80%
+        level: 60%
+        
+      - name: Swift
+        level: 50%
+              
+      - name: PHP
+        level: 50%
+        
+      - name: JS
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
